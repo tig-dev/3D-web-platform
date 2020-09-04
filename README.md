@@ -6,5 +6,5 @@ Web-based platform for displaying 3D models, using Typescript React and three.js
 
 ## Project Documentation
 
-1. [Team Professional Biographies](./documentation/team.md)
-1. [Project Description](./documentation/description.md)
+1. [Team Professional Biographies](documentation/Team-Biographies.md)
+1. [Project Description](documentation/Project-Description.md)
