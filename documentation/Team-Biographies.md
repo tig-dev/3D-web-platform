@@ -57,3 +57,44 @@
 - Web or mobile application for reporting locations/areas that may be problematic for people with disabilities of any kind
 
 ---
+
+### Joshua Poole
+
+### Contact Information
+
+* School Email: poolejd@mail.uc.edu
+* Personal Email: joshdpoole12@gmail.com 
+
+### Co-op or other Related Experiences
+*  GE Digital – Identity Management (IDM) Team (May 2019 - December 2019)
+    * Developed multiple processes and applications to support IDM’s ability to enforce expected work quality standards
+        * Pull Request Checker
+            * An automated code reviewing process implemented into an existing pull and release pipeline on TeamCity
+        * Datawarehouse Loaders
+            * Scheduled processes to pull data from APIs and external databases and store it into large database tables
+        * Applicated Health Plugin
+            * A plugin for GE's implementation of Sailpoint: IdentityIQ (an identity management software) to display
+            the health of connected applications
+            * Displays current and historical health data in sortable tables on a web page 
+        
+* EEP – Individual Upskilling (May 2020 - August 2020)
+    * Took classes on web development, Javascript frameworks, Angular, and Android development
+
+### Skills
+* Language Experience: Java, Ruby, Angular, Python, C++, C
+* Database Experience: Oracle, MySQL, SQLite, PostgreSQL
+* Tool Experience: IntelliJ IDEA, RubyMine, DataGrip, Visual Studio Code, Tomcat, Postman, TeamCity, AWS SDK, Rally 
+Kanban
+
+### Areas of Interest
+* Web development
+* Database and API applications
+* Computer graphics and game development
+* Cloud and mobile computing
+
+### Projects Sought
+* Website for a business to interact with their clients/consumers
+* Application for students and faculty of a university to report problems such as graffiti, potholes, and pests on 
+campus
+
+---
