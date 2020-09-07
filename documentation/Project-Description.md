@@ -9,6 +9,9 @@
   - Cam Skubik-Peplaski
     - Computer Sciences
     - [skubikcj@mail.uc.edu](mailto:skubikcj@mail.uc.edu)
+  - Joshua Poole
+    - Computer Science
+    - [poolejd@mail.uc.edu](mailto:poolejd@mail.uc.edu)
 - Advisor:
   - Joe Moeller
     - Software + Solutions Group Manager, KineticVision
