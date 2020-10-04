@@ -1,0 +1,12 @@
+.header {
+  text-align: center;
+  background-color: hsl(210, 69%, 54%);
+  color: white;
+  font-size: 18px;
+}
+
+.milestone {
+  text-align: center;
+  background-color: hsl(240, 69%, 54%);
+  color: white;
+}
