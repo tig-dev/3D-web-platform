@@ -1,15 +1,15 @@
 <table>
     <tr>
-        <td>Task</td>
-        <td>Primary Assignee</td>
-        <td>Estimated Dates</td>
+        <td colspan="2" rowspan="2">Task</td>
+        <td rowspan="2">Primary Assignee</td>
+        <td colspan="2">Estimated Dates</td>
     </tr>
     <tr>
         <td>Start</td>
         <td>End</td>
     </tr>
     <tr>
-        <td>Milestone: Investigation</td>
+        <td colspan="3">Milestone: Investigation</td>
         <td>Oct 1, 2020</td>
         <td>Oct 8, 2020</td>
     </tr>
@@ -32,7 +32,7 @@
         <td>Oct 8, 2020</td>
     </tr>
     <tr>
-        <td>Milestone: Design &amp; Document</td>
+        <td colspan="3">Milestone: Design &amp; Document</td>
         <td>Oct 9, 2020</td>
         <td>Nov 6, 2020</td>
     </tr>
@@ -61,7 +61,7 @@
         <td>Nov 6, 2020</td>
     </tr>
     <tr>
-        <td>Milestone: Setup</td>
+        <td colspan="3">Milestone: Setup</td>
         <td>Nov 7, 2020</td>
         <td>Nov 12, 2020</td>
     </tr>
@@ -78,7 +78,7 @@
         <td>Nov 12, 2020</td>
     </tr>
     <tr>
-        <td>Milestone: Development</td>
+        <td colspan="3">Milestone: Development</td>
         <td>Nov 13, 2020</td>
         <td>Mar 9, 2021</td>
     </tr>
@@ -121,7 +121,7 @@
         <td>Mar 9, 2021</td>
     </tr>
     <tr>
-        <td>Milestone: Testing</td>
+        <td colspan="3">Milestone: Testing</td>
         <td>Mar 10, 2021</td>
         <td>Mar 21, 2021</td>
     </tr>
@@ -132,7 +132,7 @@
         <td>Mar 21, 2021</td>
     </tr>
     <tr>
-        <td>Milestone: Deployment</td>
+        <td colspan="3">Milestone: Deployment</td>
         <td>Apr 1, 2021</td>
         <td>Apr 21, 2021</td>
     </tr>
