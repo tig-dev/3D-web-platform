@@ -1,16 +1,15 @@
-<link rel="stylesheet" type="text/css" media="all" href="markdown-styles.css" />
 <table>
     <tr>
-        <td class="header" colspan="2" rowspan="2">Task</td>
-        <td class="header" rowspan="2">Primary Assignee</td>
-        <td class="header" colspan="2">Division of Effort</td>
+        <td style="text-align: center;background-color: hsl(210, 69%, 54%);color: white;font-size: 18px;" colspan="2" rowspan="2">Task</td>
+        <td style="text-align: center;background-color: hsl(210, 69%, 54%);color: white;font-size: 18px;" rowspan="2">Primary Assignee</td>
+        <td style="text-align: center;background-color: hsl(210, 69%, 54%);color: white;font-size: 18px;" colspan="2">Division of Effort</td>
     </tr>
     <tr>
-        <td class="header">Cam</td>
-        <td class="header">Josh</td>
+        <td style="text-align: center;background-color: hsl(210, 69%, 54%);color: white;font-size: 18px;">Cam</td>
+        <td style="text-align: center;background-color: hsl(210, 69%, 54%);color: white;font-size: 18px;">Josh</td>
     </tr>
     <tr>
-        <td class="milestone" colspan="5">Milestone: Investigation</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;" colspan="5">Milestone: Investigation</td>
     </tr>
     <tr>
         <td colspan="2">Investigate Three.js or wrapper libraries that implement it for use in 3D Viewer</td>
@@ -31,7 +30,7 @@
         <td>0.00%</td>
     </tr>
     <tr>
-        <td class="milestone" colspan="5">Milestone: Design &amp; Document</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;" colspan="5">Milestone: Design &amp; Document</td>
     </tr>
     <tr>
         <td colspan="2">Design a database for the platform, using 3rd normal form (3NF)</td>
@@ -58,7 +57,7 @@
         <td>0.00%</td>
     </tr>
     <tr>
-        <td class="milestone" colspan="5">Milestone: Setup</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;" colspan="5">Milestone: Setup</td>
     </tr>
     <tr>
         <td colspan="2">Create a repository for the project's code</td>
@@ -73,7 +72,7 @@
         <td>0.00%</td>
     </tr>
     <tr>
-        <td class="milestone" colspan="5">Milestone: Development</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;" colspan="5">Milestone: Development</td>
     </tr>
     <tr>
         <td rowspan="4">Back-End</td>
@@ -114,7 +113,7 @@
         <td>0.00%</td>
     </tr>
     <tr>
-        <td class="milestone" colspan="5">Milestone: Testing</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;" colspan="5">Milestone: Testing</td>
     </tr>
     <tr>
         <td colspan="2">Test that the 3D Viewer works with all common 3D model file format</td>
@@ -123,7 +122,7 @@
         <td>0.00%</td>
     </tr>
     <tr>
-        <td class="milestone" colspan="5">Milestone: Deployment</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;" colspan="5">Milestone: Deployment</td>
     </tr>
     <tr>
         <td colspan="2">Research and create a CI/CD pipeline for the platform</td>

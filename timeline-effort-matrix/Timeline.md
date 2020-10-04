@@ -1,18 +1,17 @@
-<link rel="stylesheet" type="text/css" media="all" href="markdown-styles.css" />
 <table>
     <tr>
-        <td class="header" colspan="2" rowspan="2">Task</td>
-        <td class="header" rowspan="2">Primary Assignee</td>
-        <td class="header" colspan="2">Estimated Dates</td>
+        <td style="text-align: center;background-color: hsl(210, 69%, 54%);color: white;font-size: 18px;" colspan="2" rowspan="2">Task</td>
+        <td style="text-align: center;background-color: hsl(210, 69%, 54%);color: white;font-size: 18px;" rowspan="2">Primary Assignee</td>
+        <td style="text-align: center;background-color: hsl(210, 69%, 54%);color: white;font-size: 18px;" colspan="2">Estimated Dates</td>
     </tr>
     <tr>
-        <td class="header">Start</td>
-        <td class="header">End</td>
+        <td style="text-align: center;background-color: hsl(210, 69%, 54%);color: white;font-size: 18px;">Start</td>
+        <td style="text-align: center;background-color: hsl(210, 69%, 54%);color: white;font-size: 18px;">End</td>
     </tr>
     <tr>
-        <td class="milestone" colspan="3">Milestone: Investigation</td>
-        <td class="milestone">Oct 1, 2020</td>
-        <td class="milestone">Oct 8, 2020</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;" colspan="3">Milestone: Investigation</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;">Oct 1, 2020</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;">Oct 8, 2020</td>
     </tr>
     <tr>
         <td colspan="2">Investigate Three.js or wrapper libraries that implement it for use in 3D Viewer</td>
@@ -33,9 +32,9 @@
         <td>Oct 8, 2020</td>
     </tr>
     <tr>
-        <td class="milestone" colspan="3">Milestone: Design &amp; Document</td>
-        <td class="milestone">Oct 9, 2020</td>
-        <td class="milestone">Nov 6, 2020</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;" colspan="3">Milestone: Design &amp; Document</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;">Oct 9, 2020</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;">Nov 6, 2020</td>
     </tr>
     <tr>
         <td colspan="2">Design a database for the platform, using 3rd normal form (3NF)</td>
@@ -62,9 +61,9 @@
         <td>Nov 6, 2020</td>
     </tr>
     <tr>
-        <td class="milestone" colspan="3">Milestone: Setup</td>
-        <td class="milestone">Nov 7, 2020</td>
-        <td class="milestone">Nov 12, 2020</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;" colspan="3">Milestone: Setup</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;">Nov 7, 2020</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;">Nov 12, 2020</td>
     </tr>
     <tr>
         <td colspan="2">Create a repository for the project's code</td>
@@ -79,9 +78,9 @@
         <td>Nov 12, 2020</td>
     </tr>
     <tr>
-        <td class="milestone" colspan="3">Milestone: Development</td>
-        <td class="milestone">Nov 13, 2020</td>
-        <td class="milestone">Mar 9, 2021</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;" colspan="3">Milestone: Development</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;">Nov 13, 2020</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;">Mar 9, 2021</td>
     </tr>
     <tr>
         <td rowspan="4">Back-End</td>
@@ -122,9 +121,9 @@
         <td>Mar 9, 2021</td>
     </tr>
     <tr>
-        <td class="milestone" colspan="3">Milestone: Testing</td>
-        <td class="milestone">Mar 10, 2021</td>
-        <td class="milestone">Mar 21, 2021</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;" colspan="3">Milestone: Testing</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;">Mar 10, 2021</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;">Mar 21, 2021</td>
     </tr>
     <tr>
         <td colspan="2">Test that the 3D Viewer works with all common 3D model file format</td>
@@ -133,9 +132,9 @@
         <td>Mar 21, 2021</td>
     </tr>
     <tr>
-        <td class="milestone" colspan="3">Milestone: Deployment</td>
-        <td class="milestone">Apr 1, 2021</td>
-        <td class="milestone">Apr 21, 2021</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;" colspan="3">Milestone: Deployment</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;">Apr 1, 2021</td>
+        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;">Apr 21, 2021</td>
     </tr>
     <tr>
         <td colspan="2">Research and create a CI/CD pipeline for the platform</td>
