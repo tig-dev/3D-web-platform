@@ -1,15 +1,15 @@
 <table>
     <tr>
-        <td style="text-align: center;background-color: hsl(210, 69%, 54%);color: white;font-size: 18px;" colspan="2" rowspan="2">Task</td>
-        <td style="text-align: center;background-color: hsl(210, 69%, 54%);color: white;font-size: 18px;" rowspan="2">Primary Assignee</td>
-        <td style="text-align: center;background-color: hsl(210, 69%, 54%);color: white;font-size: 18px;" colspan="2">Division of Effort</td>
+        <td>Task</td>
+        <td>Primary Assignee</td>
+        <td>Division of Effort</td>
     </tr>
     <tr>
-        <td style="text-align: center;background-color: hsl(210, 69%, 54%);color: white;font-size: 18px;">Cam</td>
-        <td style="text-align: center;background-color: hsl(210, 69%, 54%);color: white;font-size: 18px;">Josh</td>
+        <td>Cam</td>
+        <td>Josh</td>
     </tr>
     <tr>
-        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;" colspan="5">Milestone: Investigation</td>
+        <td>Milestone: Investigation</td>
     </tr>
     <tr>
         <td colspan="2">Investigate Three.js or wrapper libraries that implement it for use in 3D Viewer</td>
@@ -30,7 +30,7 @@
         <td>0.00%</td>
     </tr>
     <tr>
-        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;" colspan="5">Milestone: Design &amp; Document</td>
+        <td>Milestone: Design &amp; Document</td>
     </tr>
     <tr>
         <td colspan="2">Design a database for the platform, using 3rd normal form (3NF)</td>
@@ -57,7 +57,7 @@
         <td>0.00%</td>
     </tr>
     <tr>
-        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;" colspan="5">Milestone: Setup</td>
+        <td>Milestone: Setup</td>
     </tr>
     <tr>
         <td colspan="2">Create a repository for the project's code</td>
@@ -72,7 +72,7 @@
         <td>0.00%</td>
     </tr>
     <tr>
-        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;" colspan="5">Milestone: Development</td>
+        <td>Milestone: Development</td>
     </tr>
     <tr>
         <td rowspan="4">Back-End</td>
@@ -113,7 +113,7 @@
         <td>0.00%</td>
     </tr>
     <tr>
-        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;" colspan="5">Milestone: Testing</td>
+        <td>Milestone: Testing</td>
     </tr>
     <tr>
         <td colspan="2">Test that the 3D Viewer works with all common 3D model file format</td>
@@ -122,7 +122,7 @@
         <td>0.00%</td>
     </tr>
     <tr>
-        <td style="text-align: center;background-color: hsl(240, 69%, 54%);color: white;" colspan="5">Milestone: Deployment</td>
+        <td>Milestone: Deployment</td>
     </tr>
     <tr>
         <td colspan="2">Research and create a CI/CD pipeline for the platform</td>
@@ -131,7 +131,7 @@
         <td>100.00%</td>
     </tr>
     <tr>
-        <td colspan="2">Create a QA/Develop environment using the cloud infratructure previously created</td>
+        <td colspan="2">Create a QA/Develop environment using the cloud infrastructure previously created</td>
         <td>Cam</td>
         <td>100.00%</td>
         <td>0.00%</td>
