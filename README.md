@@ -11,4 +11,6 @@ Web-based platform for displaying 3D models, using Typescript React and three.js
 1. [User Stories](User-Stories.md)
 1. [Design Diagrams](design-diagrams/Design-Diagrams.md)
 1. [Task List](documentation/Task-List.md)
-1. [Timeline & Effort Matrix](timeline-effort-matrix)
+1. [Milestone List](documentation/Milestone-List.md)
+1. [Task Timeline](documentation/Task-Timeline.md)
+1. [Task Effort Matrix](documentation/Task-Effort-Matrix.md)

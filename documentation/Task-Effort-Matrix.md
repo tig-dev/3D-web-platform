@@ -1,3 +1,15 @@
+[README.md](../README.md) > Task-Effort-Matrix.md
+
+# Task Effort Matrix
+
+## Table in Google Sheets
+
+![Sheets Screenshot of Task Effort Matrix](images/Task-Effort-Matrix.png)
+
+-----
+
+## Transcribed HTML Table
+
 <table>
     <tr>
         <td colspan="2" rowspan="2">Task</td>

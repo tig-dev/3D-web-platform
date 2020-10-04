@@ -1,3 +1,15 @@
+[README.md](../README.md) > Task-Timeline.md
+
+# Task Timeline
+
+## Table in Google Sheets
+
+![Sheets Screenshot of Task Timeline](images/Task-Timeline.png)
+
+-----
+
+## Transcribed HTML Table
+
 <table>
     <tr>
         <td colspan="2" rowspan="2">Task</td>
