@@ -14,3 +14,4 @@ Web-based platform for displaying 3D models, using Typescript React and three.js
 1. [Milestone List](documentation/Milestone-List.md)
 1. [Task Timeline](documentation/Task-Timeline.md)
 1. [Task Effort Matrix](documentation/Task-Effort-Matrix.md)
+1. [Project Constraints](documentation/Project-Constraints.md)
