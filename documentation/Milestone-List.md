@@ -1,4 +1,4 @@
-[README.md](../README.md) > Milestone-List.md
+[Home](../README.md) > Milestone List
 
 # Milestone List
 
