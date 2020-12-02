@@ -2,7 +2,7 @@
 
 > Senior capstone project sponsored by Kinetic Vision.
 
-A Web-based platform for displaying 3D models, using Typescript React and three.js. Users would be able to create projects, upload models to them, and share them with other users.
+A Web-based platform for displaying 3D models, using Typescript React and three.js. Users would be able to create projects, upload models to them, and share them with other users. The project is being built on top of the Kinetic Vision Software + Solutions Group web app boilerplate.
 
 ## Team
 
