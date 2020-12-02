@@ -2,6 +2,8 @@
 
 # Task List
 
+> Task status can be seen within the [Milestone List](Milestone-List.md).
+
 | Assignee | Task |
 | -------- | ---- |
 | Cam | Investigate Three.js or wrapper libraries that implement it for use in 3D Viewer |

@@ -29,6 +29,7 @@
 1. [React](https://reactjs.org), the framework we're using to create the client-side application.
 1. [three.js](https://threejs.org), a 3D library built utilizing WebGL.
 1. [react-three-fiber](https://github.com/pmndrs/react-three-fiber) is a React renderer for three.js and a key package for our 3D viewer.
+1. [glTF Sample Models](https://github.com/KhronosGroup/glTF-Sample-Models), a set of 3D models in the `.gltf` file format provided by the Khronos Group and contributors for glTF testing.
 
 ## Other Links
 
