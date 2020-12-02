@@ -1,6 +1,8 @@
-[README.md](../README.md) > Task-List.md
+[Home](../README.md) > Task List
 
 # Task List
+
+> Task status can be seen within the [Milestone List](Milestone-List.md).
 
 | Assignee | Task |
 | -------- | ---- |
