@@ -29,11 +29,13 @@ Glimpse is a content management & storage platform for the visualization of 3D C
 
 ### 1. [Project Description](documentation/Project-Description.md)
 
-### 2. [User Stories](documentation/User-Stories.md)
+### 2. [User Guide](documentation/user-guide/User-Guide.md)
 
-### 3. [Design Diagrams](documentation/design-diagrams/Design-Diagrams.md)
+### 3. [User Stories](documentation/User-Stories.md)
 
-### 4. Project Tasks and Timeline
+### 4. [Design Diagrams](documentation/design-diagrams/Design-Diagrams.md)
+
+### 5. Project Tasks and Timeline
 
 - [Milestone List](documentation/Milestone-List.md)
 
@@ -43,24 +45,23 @@ Glimpse is a content management & storage platform for the visualization of 3D C
 
 - [Effort Matrix](documentation/Task-Effort-Matrix.md)
 
-### 5. [Constraints](documentation/Project-Constraints.md)
+### 6. [Constraints](documentation/Project-Constraints.md)
 
-### 6. Fall Presentation
+### 7. Fall Presentation
 
 - [Presentation Slide Deck](documentation/fall-presentation/Mid-Semester-Presentation.pptx)
 - [PDF of Slide Deck](documentation/fall-presentation/Mid-Semester-Presentation.pdf)
 - [Video Recording](documentation/fall-presentation/GlimpseMidSemsterPresentation.mp4)
 
-### 7. Indiviudal Essays
+### 8. Indiviudal Essays
 
 - [Capstone Assessment by Cam, PDF](essays/individual_assesments/Cam_SkubikPeplaski.docx)
 - [Capstone Assessment by Cam, Word](essays/individual_assesments/Cam_SkubikPeplaski.docx)
 - [Capstone Assessment by Josh, PDF](essays/individual_assesments/Josh_Poole.pdf)
 - [Capstone Assessment by Josh, Word](essays/individual_assesments/Josh_Poole.docx)
 
-### 8. [Professional Biographies](documentation/Team-Biographies.md)
+### 9. [Professional Biographies](documentation/Team-Biographies.md)
 
-### 9. [Budget](documentation/Budget.md)
+### 10. [Budget](documentation/Budget.md)
 
-
-### 10. [Appendix](documentation/Appendix.md)
+### 11. [Appendix](documentation/Appendix.md)
