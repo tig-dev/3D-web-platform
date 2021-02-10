@@ -14,7 +14,7 @@
 - [User Accounts](./User-Accounts.md)
 - [My Models](./My-Models.md)
 - [Model Details](./Model-Details.md)
-- [Model Upload](,/Model-Upload.md)
+- [Model Upload](./Model-Upload.md)
 
 ## Frequently Asked Questions
 
