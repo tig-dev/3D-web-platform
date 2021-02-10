@@ -1,4 +1,4 @@
-[Home](../../README.md) > [User Guides](../User-Guide.md) > Model Upload
+[Home](../../README.md) > [User Guides](./User-Guide.md) > Model Upload
 
 # Model Upload
 

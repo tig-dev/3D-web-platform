@@ -18,4 +18,4 @@
 
 ## Frequently Asked Questions
 
-See the [FAQ page](../FAQ.md).
+See the [FAQ page](./FAQ.md).

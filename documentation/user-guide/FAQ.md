@@ -1,4 +1,4 @@
-[Home](../../README.md) > [User Guides](../User-Guide.md) > Frequently Asked Questions
+[Home](../../README.md) > [User Guides](./User-Guide.md) > Frequently Asked Questions
 
 # Frequently Asked Questions
 

@@ -1,4 +1,4 @@
-[Home](../../README.md) > [User Guides](../User-Guide.md) > Model Details
+[Home](../../README.md) > [User Guides](./User-Guide.md) > Model Details
 
 # Model Details
 
@@ -24,7 +24,7 @@ See the [3D viewers documentation](Viewers.md#interacting-with-a-model).
 
 ### Upload a model
 
-[See the model upload page for an in depth walkthrough](../Model-Upload.md)
+[See the model upload page for an in depth walkthrough](./Model-Upload.md)
 
 ### Download a model
 

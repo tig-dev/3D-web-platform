@@ -1,4 +1,4 @@
-[Home](../../README.md) > [User Guides](../User-Guide.md) > Home Page Tour
+[Home](../../README.md) > [User Guides](./User-Guide.md) > Home Page Tour
 
 # Home Page Tour
 

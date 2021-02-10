@@ -1,4 +1,4 @@
-[Home](../../README.md) > [User Guides](../User-Guide.md) > Overview
+[Home](../../README.md) > [User Guides](./User-Guide.md) > Overview
 
 # Overview
 
@@ -16,30 +16,30 @@ Glimpse is a content management & storage platform for the visualization of 3D C
 
 ### Home Page
 
-The home page features a large collection of public models uploaded by users. It also allows for users to register, login, and logout. 
+The home page features a large collection of public models uploaded by users. It also allows for users to register, login, and logout.
 
-See the [Home Page Tour for an in depth look](../Home-Page-Tour.md).
+See the [Home Page Tour for an in depth look](./Home-Tour.md).
 
 ### 3D Viewer
 
 The Glimpse 3D viewer includes both a static look at a model, as well as an interactive view with multiple different actions available.
 
-See the [3D Viewer page for more information](../Viewers.md).
+See the [3D Viewer page for more information](./Viewers.md).
 
 ### My Models
 
 The “My Models” page is a view of a user’s personally uploaded models. This includes both private models and those that are publicly available. 
 
-See the [My Models page for more information](../My-Models.md).
+See the [My Models page for more information](./My-Models.md).
 
 ### Model Details
 
 Individual models are shown either in a modal or page, which include an instance of the interactive 3D viewer and the model information. If the model is publicly usable, there will also be an option to download the viewed model.
 
-See the [Model Details page for more information](../Model-Details.md).
+See the [Model Details page for more information](./Model-Details.md).
 
 ### Model Upload
 
-This page allows logged in users to upload models from their personal computer to the Glimpse platform. They also have the ability to specific descriptive information about their model as well as decide whether to publicize it immediately. 
+This page allows logged in users to upload models from their personal computer to the Glimpse platform. They also have the ability to specific descriptive information about their model as well as decide whether to publicize it immediately.
 
- See the [Model Upload page for more information](../Model-Upload.md).
+ See the [Model Upload page for more information](./Model-Upload.md).
