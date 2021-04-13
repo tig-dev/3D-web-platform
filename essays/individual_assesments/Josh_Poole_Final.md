@@ -1,0 +1,6 @@
+# Final Self Assessment
+##  Author: Josh Poole
+
+My contribution to out senior design project was that of developing the back end for our platform. Last fall I identified some skills relating to frontend development, but I ultimately did not end up using them. We decided to split the work up with me taking charge of the backend and Cam taking the frontend. This was great as I had a lot of experience in backend development as was confident in my abilities. My existing knowledge of the Python programming language helped me to pick up Flask relatively quickly. I learned a ton about how modern web pages can be built extremely quickly and efficiently with Flask+SQLAlchemy. 
+
+I ended up designing and implementing the database ORM (Object-relational mapping), the SQLAlchemy functions to interact with the ORM, as well as endpoints using REST and GraphQL to allow the front end to connect to the ORM and the blob storage. I was able to complete all of this as well as implement an authentication workflow using Json Web Tokens, which was really helpful to learn about. The largest obstacle I faced was during the development of the model blob storage workflow. We had decided to use Azurite, an Azure Cloud Services emulator, and I ran into a lot problems trying to implement it. 

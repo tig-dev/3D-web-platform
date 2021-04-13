@@ -59,6 +59,7 @@ Glimpse is a content management & storage platform for the visualization of 3D C
 - [Capstone Assessment by Cam, Word](essays/individual_assesments/Cam_SkubikPeplaski.docx)
 - [Capstone Assessment by Josh, PDF](essays/individual_assesments/Josh_Poole.pdf)
 - [Capstone Assessment by Josh, Word](essays/individual_assesments/Josh_Poole.docx)
+- [Final Self Assessment by Josh](essays/individual_assesments/Josh_Poole_Final.md)
 
 ### 9. [Professional Biographies](documentation/Team-Biographies.md)
 
