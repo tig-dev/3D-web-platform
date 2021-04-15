@@ -4,6 +4,8 @@
 
 A Web-based platform for displaying 3D models, using Typescript React and three.js. Users would be able to create projects, upload models to them, and share them with other users. The project is being built on top of the Kinetic Vision Software + Solutions Group web app boilerplate.
 
+---
+
 ## Team
 
 ### Developers
@@ -21,21 +23,36 @@ A Web-based platform for displaying 3D models, using Typescript React and three.
   - Software + Solutions Group Manager at [KineticVision](https://kinetic-vision.com)
   - [jmoeller@kinetic-vision.com](mailto:jmoeller@kinetic-vision.com)
 
+---
+
 ## Project Abstract
 
 Glimpse is a content management & storage platform for the visualization of 3D CAD models, simulation results, and VR/AR assets. In leveraging modern web technologies like Azure Cloud, ReactJS, Python Flask, and Docker, the platform will be a flexible and scalable application that enables content-sharing, rapid prototyping, design feedback, and more across an organization.
+
+---
 
 ## Table of Contents
 
 ### 1. [Project Description](documentation/Project-Description.md)
 
-### 2. [User Guide](documentation/user-guide/User-Guide.md)
+### 2. [Test Plan](documentation/images-and-pdfs/Glimpse_Testing_Plan.pdf)
 
-### 3. [User Stories](documentation/User-Stories.md)
+### 3. [User Guide](documentation/user-guide/User-Guide.md)
 
-### 4. [Design Diagrams](documentation/design-diagrams/Design-Diagrams.md)
+- [Overview](documentation/user-guide/Overview.md)
+- [Tour](documentation/user-guide/Home-Tour.md)
+- [User Accounts](documentation/user-guide/User-Accounts.md)
+- [User Models](documentation/user-guide/User-Models.md)
+- [Model Viewers](documentation/user-guide/Viewers.md)
+- [Model Details](documentation/user-guide/Model-Details.md)
+- [Model Upload](documentation/user-guide/Model-Upload.md)
+- [FAQ](documentation/user-guide/FAQ.md)
 
-### 5. Project Tasks and Timeline
+### 4. [User Stories](documentation/User-Stories.md)
+
+### 5. [Design Diagrams](documentation/design-diagrams/Design-Diagrams.md)
+
+### 6. Project Tasks and Timeline
 
 - [Milestone List](documentation/Milestone-List.md)
 
@@ -45,24 +62,35 @@ Glimpse is a content management & storage platform for the visualization of 3D C
 
 - [Effort Matrix](documentation/Task-Effort-Matrix.md)
 
-### 6. [Constraints](documentation/Project-Constraints.md)
+### 7. [Constraints](documentation/Project-Constraints.md)
 
-### 7. Fall Presentation
+### 8. Presentations
 
-- [Presentation Slide Deck](documentation/fall-presentation/Mid-Semester-Presentation.pptx)
-- [PDF of Slide Deck](documentation/fall-presentation/Mid-Semester-Presentation.pdf)
+#### Final Presentation
+
+- Slide Deck: [PPT](documentation/spring-presentation/PresentationSlideDeck.pdf) | [PDF](documentation/spring-presentation/PresentationSlideDeck.pptx)
+- [Video Recording](documentation/spring-presentation/FinalPresentationVideo.mp4)
+- [Expo Poster](documentation/spring-presentation/Poster-Final.png)
+
+#### Fall Presentaion
+
+- Slide Deck: [PPT](documentation/fall-presentation/Mid-Semester-Presentation.pptx) | [PDF](documentation/fall-presentation/Mid-Semester-Presentation.pdf)
 - [Video Recording](documentation/fall-presentation/GlimpseMidSemsterPresentation.mp4)
 
-### 8. Indiviudal Essays
+### 9. Indiviudal Assessments
 
-- [Capstone Assessment by Cam, PDF](essays/individual_assesments/Cam_SkubikPeplaski.docx)
-- [Capstone Assessment by Cam, Word](essays/individual_assesments/Cam_SkubikPeplaski.docx)
-- [Capstone Assessment by Josh, PDF](essays/individual_assesments/Josh_Poole.pdf)
-- [Capstone Assessment by Josh, Word](essays/individual_assesments/Josh_Poole.docx)
-- [Final Self Assessment by Josh](essays/individual_assesments/Josh_Poole_Final.md)
+#### Initial Assessments
 
-### 9. [Professional Biographies](documentation/Team-Biographies.md)
+- Capstone Assessment by Cam: [Word](essays/initial_self_assessments/Cam_SkubikPeplaski.docx) | [PDF](essays/initial_self_assessments/Cam_SkubikPeplaski.pdf)
+- Capstone Assessment by Josh: [Word](essays/initial_self_assessments/Josh_Poole.docx) | [PDF](essays/initial_self_assessments/Josh_Poole.pdf)
 
-### 10. [Budget](documentation/Budget.md)
+#### Final Assessments
 
-### 11. [Appendix](documentation/Appendix.md)
+- Final Self Assessment by Josh: [Markdown](essays/final_self_assessments/Josh_Poole_Final.md)
+- Final Assessment by Cam: [Word](essays/final_self_assessments/CSkubikPeplaskiFinalSelfAssessment.docx) | [PDF](essays/final_self_assessments/CSkubikPeplaskiFinalSelfAssessment.pdf)
+
+### 10. [Professional Biographies](documentation/Team-Biographies.md)
+
+### 11. [Budget](documentation/Budget.md)
+
+### 12. [Appendix](documentation/Appendix.md)

@@ -14,7 +14,7 @@
 
 ### Register
 
-![Glimpse Register page](../images/Register.png)
+![Glimpse Register page](../images-and-pdfs/Register.png)
 
 1. On any Glimpse page, click on the “Register” button in the header menu bar, as seen above. 
 1. Enter a unique username. This will be the identifying name displayed publicly on your profile.
@@ -25,7 +25,7 @@
 
 ### Log In
 
-![Glimpse Log In page](../images/Log-In.png)
+![Glimpse Log In page](../images-and-pdfs/Log-In.png)
 
 1. On any Glimpse page, click on the “Log In” button in the header menu bar, as seen above.
 1. Enter the username associated with your personal account.
@@ -34,7 +34,7 @@
 
 ### Log Out
 
-![Glimpse header account menu](../images/Account-Menu.png)
+![Glimpse header account menu](../images-and-pdfs/Account-Menu.png)
 
 1. Click on the “Account” button in the upper right corner of the page, as in the image above.
 1. Click the “Log out” option in the menu that appears.

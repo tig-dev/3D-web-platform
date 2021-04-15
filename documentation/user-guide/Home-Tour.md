@@ -34,15 +34,15 @@ A never ending grid of user uploaded models. Each panel shows a thumbnail of the
 
 ### When Not Logged In
 
-![Home Page, without logging in](../images/Splash-Page-Logged-Out.png)
+![Home Page, without logging in](../images-and-pdfs/Splash-Page-Logged-Out.png)
 
 ### When Logged In
 
-![Home Page, after logging in](../images/Splash-Page-Logged-In.png)
+![Home Page, after logging in](../images-and-pdfs/Splash-Page-Logged-In.png)
 
 ### Account Menu Dropdown
 
-![Account menu dropped down](../images/Account-Menu.png)
+![Account menu dropped down](../images-and-pdfs/Account-Menu.png)
 
 ## Features
 
