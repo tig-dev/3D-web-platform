@@ -15,7 +15,6 @@
 - [My Models](./My-Models.md)
 - [Model Details](./Model-Details.md)
 - [Model Upload](./Model-Upload.md)
-- [UI Flow](./UI-Flow.png)
 
 ## Frequently Asked Questions
 

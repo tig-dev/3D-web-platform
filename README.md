@@ -93,6 +93,8 @@ Glimpse is a content management & storage platform for the visualization of 3D C
 
 ### 10. [Professional Biographies](documentation/Team-Biographies.md)
 
-### 11. [Budget](documentation/Budget.md)
+### 11. [Summary of Hours and Justification](documentation/Effort-Spent.md)
 
-### 12. [Appendix](documentation/Appendix.md)
+### 12. [Budget](documentation/Budget.md)
+
+### 13. [Appendix](documentation/Appendix.md)
