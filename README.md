@@ -37,6 +37,8 @@ Glimpse is a content management & storage platform for the visualization of 3D C
 
 ### 2. [Test Plan](documentation/images-and-pdfs/Glimpse_Testing_Plan.pdf)
 
+### 3. [User Interface](documentation/user-interface/UI-Flow.md)
+
 ### 3. [User Guide](documentation/user-guide/User-Guide.md)
 
 - [Overview](documentation/user-guide/Overview.md)

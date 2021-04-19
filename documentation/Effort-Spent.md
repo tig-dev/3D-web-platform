@@ -6,9 +6,9 @@
 
 | Name | Fall Semester | Spring Semester | Full Year |
 | ---- | ------------- | --------------- | --------- |
-| Cam | 49.75 | | |
-| Josh | 47 | | |
-| **Total** | 96.75 | | |
+| Cam | 49.75 | 56 | 105.75 |
+| Josh | 47 | 52 | 99 |
+| **Total** | 96.75 | 108 | 204.75 |
 
 ## Effort Breakdowns
 
@@ -35,14 +35,17 @@
 
 | Name | Task | Date(s)/Timespan | Time Spent | Notes |
 | ---- | ---- | ---------------- |---------- | ----- |
-| Cam | Documentation |  |  | Writing/Updating documentation for the project, such as for assignments and meeting preparation |
-| Josh | Documentation |  |  | Completing assignments as required by the course. Formatting them properly to fit in with the rest of the repo |
+| Cam | Documentation | Jan 11 - Present | ~10 hrs | Writing/Updating documentation for the project, such as for assignments and meeting preparation |
+| Josh | Documentation | Jan 11 - Present | ~9 hours | Completing assignments as required by the course. Formatting them properly to fit in with the rest of the repo |
 | Cam & Josh | Meetings | Jan. 12th - Present | ~12 hrs | Weekly meetings with developers and our advisor to discuss progress on the project and the weekly assignments |
-| Josh | Research |  |  |  |
-| Cam | Research |  |  |  |
-| Josh | Debug |  |  |  |
-| Cam | Debug |  |  |  |
-| Cam | Development work on 3D viewer |  |  | Creating the basic version of the 3D viewer using react-three-js and some sample models from Khronos Group |
-| Cam | Cloud infrastructure work and deployment |  |  |  |
-| Josh |  |  |  |  |
-| Cam |  |  |  |  |
+| Josh | Research |  | 3 hrs | Researched best practices and general structure when implementing SQLAlchemy+Graphene. Investigated Azurite, an Azure blob emulator, and how to communicate with it using Azure SDK. Researched authentication in Flask using JWT |
+| Cam | Research |  | 3 hrs |  |
+| Josh | Debug |  | 5 hrs | Debugged blocker problem with Docker-Azurite connectivity |
+| Cam | Debug |  | 5 hrs | Resolved multiple problems on frontend with the model upload workflow, viewer demos, and 3D viewer in general |
+| Cam | Development work on 3D viewer |  | 18 hrs | Creating the basic version of the 3D viewer using react-three-js and some sample models from Khronos Group. Implemented viewer demo pages |
+| Cam | Cloud infrastructure work and deployment | | 3 hrs | Created Dev environment and deployed containerized application to it |
+| Josh | Development work on SQLAlchemy models |  | 8 hrs | Creating an ORM for our database schema. Implementing class methods for query, read, create, update, and delete |
+| Josh | Development work on Graphene queries and mutations |  | 8 hrs | Creating models, methods, and workflows to allow the frontend to communicate with the backend ORM using GraphQL |
+| Cam | Development work on Model Upload page |  | 5 hrs |  |
+| Josh | Development work on backend authentication with JWT | | 2 hrs | Creating authentication workflow for login and logout. Used Json Web Tokens to pass user details into useful endpoints |
+| Josh | Development work on model blob storage | | 5 hrs | Created emulated Azure blob instance to store 3D models. Created endpoints to retrieve and store models in storage using Azure SDK |
