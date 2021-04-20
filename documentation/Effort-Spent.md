@@ -6,9 +6,9 @@
 
 | Name | Fall Semester | Spring Semester | Full Year |
 | ---- | ------------- | --------------- | --------- |
-| Cam | 49.75 | 56 | 105.75 |
+| Cam | 49.75 | 58 | 107.75 |
 | Josh | 47 | 52 | 99 |
-| **Total** | 96.75 | 108 | 204.75 |
+| **Total** | 96.75 | 110 | 206.75 |
 
 ## Effort Breakdowns
 
@@ -39,13 +39,13 @@
 | Josh | Documentation | Jan 11 - Present | ~9 hours | Completing assignments as required by the course. Formatting them properly to fit in with the rest of the repo |
 | Cam & Josh | Meetings | Jan. 12th - Present | ~12 hrs | Weekly meetings with developers and our advisor to discuss progress on the project and the weekly assignments |
 | Josh | Research | Jan 11 - Mar 22 | 3 hrs | Researched best practices and general structure when implementing SQLAlchemy+Graphene. Investigated Azurite, an Azure blob emulator, and how to communicate with it using Azure SDK. Researched authentication in Flask using JWT |
-| Cam | Research |  | 3 hrs |  |
+| Cam | Research | Jan 11 - Mar 22 | 3 hrs | Researching a handful of different topics for front-end development, such as the browser File API and three.js examples |
 | Josh | Debug | Jan 27 - Feb 3 | 5 hrs | Debugged blocker problem with Docker-Azurite connectivity |
-| Cam | Debug |  | 5 hrs | Resolved multiple problems on frontend with the model upload workflow, viewer demos, and 3D viewer in general |
-| Cam | Development work on 3D viewer |  | 18 hrs | Creating the basic version of the 3D viewer using react-three-js and some sample models from Khronos Group. Implemented viewer demo pages |
-| Cam | Development work on Model Upload page |  | 5 hrs |  |
+| Cam | Debug | Mar 22 - Mar 26 | 5 hrs | Resolved multiple problems on frontend with the model upload workflow, viewer demos, and 3D viewer in general |
+| Cam | Development work on 3D viewer | Jan 11 - Jan 26 | 8 hrs | Developing the 3D viewer features using react-three-js and sample models from Khronos Group; Implementing the viewer demo pages |
+| Cam | Development work on Front-end components | Jan 26 - Mar 18 | 17 hrs | Developing the various front-end components and workflows, including the homepage, model upload pages, user model pages, and the model viewing modal |
 | Josh | Development work on SQLAlchemy models | Jan 11 - Jan 24 | 8 hrs | Creating an ORM for our database schema. Implementing class methods for query, read, create, update, and delete |
 | Josh | Development work on model blob storage | Jan 25 - Feb 3 | 5 hrs | Created emulated Azure blob instance to store 3D models. Created endpoints to retrieve and store models in storage using Azure SDK |
 | Josh | Development work on Graphene queries and mutations | Feb 4 - Feb 16 | 8 hrs | Creating models, methods, and workflows to allow the frontend to communicate with the backend ORM using GraphQL |
 | Josh | Development work on backend authentication with JWT | Feb 18 - Mar 22 | 2 hrs | Creating authentication workflow for login and logout. Used Json Web Tokens to pass user details into useful endpoints |
-| Cam | Cloud infrastructure work and deployment | | 3 hrs | Created Dev environment and deployed containerized application to it |
+| Cam | Cloud infrastructure work and deployment | Mar 18 - Mar 22 | 3 hrs | Created Dev environment VM and deployed containerized application to it |
