@@ -21,7 +21,7 @@
 
 1. Log in to Glimpse. See the [User Accounts guide for details](./User-Accounts.md#log-in).
 
-![Header Menu Bar, when logged in](../images/Logged-In-Header.png)
+![Header Menu Bar, when logged in](../images-and-pdfs/Logged-In-Header.png)
 
 2. Click on the “Upload” button in the header menu bar, as in the above image.
 1. Click on the Upload box to select a model file to upload.

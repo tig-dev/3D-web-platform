@@ -13,13 +13,13 @@
 
 ### Static Viewer
 
-![Static 3D Model Viewer](../images/Static-Viewer.png)
+![Static 3D Model Viewer](../images-and-pdfs/Static-Viewer.png)
 
 The static viewer renders the 3D model as-is, and does not offer any controls or interaction with the model.
 
 ### Interactive Viewer
 
-![Interactive 3D Model Viewer](../images/Interactive-Viewer.png)
+![Interactive 3D Model Viewer](../images-and-pdfs/Interactive-Viewer.png)
 
 The interactive viewer renders the 3D model and provides various camera controls to the user.
 

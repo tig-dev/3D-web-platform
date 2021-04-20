@@ -27,7 +27,7 @@
 
 | Assignee | Task | Completion Status |
 | -------- | ---- | ----------------- |
-| Cam | Implement the could infrastructure necessary for the platform | IN PROGRESS |
+| Cam | Implement the could infrastructure necessary for the platform | COMPLETED |
 | Josh | Create a repository for the project's code | COMPLETED |
 
 -----
@@ -36,9 +36,9 @@
 
 | Assignee | Task | Completion Status |
 | -------- | ---- | ----------------- |
-| Cam | Implement the front-end client web pages and the 3D viewer | IN PROGRESS; basic 3D viewer has been implemented |
-| Josh | Implement the back-end server API, workflow, and functions | TO DO |
-| Josh (Primary), Cam | Implement the SQLAlchemy database models within server, based on the design created earlier | TO DO |
+| Cam | Implement the front-end client web pages and the 3D viewer | COMPLETED |
+| Josh | Implement the back-end server API, workflow, and functions | COMPLETED |
+| Josh (Primary), Cam | Implement the SQLAlchemy database models within server, based on the design created earlier | COMPLETED |
 
 -----
 
@@ -46,7 +46,7 @@
 
 | Assignee | Task | Completion Status |
 | -------- | ---- | ----------------- |
-| Cam | Test that the 3D Viewer works with all common 3D model file format | TO DO |
+| Cam | Test that the 3D Viewer works with all common 3D model file format | COMPLETED; only embedded gltf |
 
 -----
 
@@ -54,7 +54,7 @@
 
 | Assignee | Task | Completion Status |
 | -------- | ---- | ----------------- |
-| Cam | Create a QA/Develop environment using the cloud infratructure previously created | TO DO |
+| Cam | Create a QA/Develop environment using the cloud infratructure previously created | COMPLETED |
 | Josh | Research and create a CI/CD pipeline for the platform | TO DO |
 
 -----

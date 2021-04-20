@@ -32,7 +32,7 @@ See the [model download step-by-step](./Model-Details.md#download-a-model).
 
 ### Update model information
 
-![Glimpse header menu, when logged in](../images/Logged-In-Header.png)
+![Glimpse header menu, when logged in](../images-and-pdfs/Logged-In-Header.png)
 
 1. Click on the "My Models" button in the header menu bar, as shown above.
 1. Click on the model you want to edit the information of.
